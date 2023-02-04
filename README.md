@@ -15,6 +15,10 @@
 - Criar uma guia de Galáxias com 3 páginas.
 - Criar links para navegar entre as páginas.
 
+### Exercício 3 (Tabela)
+
+- Criar uma tabela com os dados fornecidos.
+
 ## Meta
 
 Davis Lamenha Sampaio - [Linkedin](https://www.linkedin.com/in/davislamenha/) - davislamenha@gmail.com
