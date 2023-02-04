@@ -4,6 +4,12 @@
 
 > Exercícios para estudo e prática propostos no modulo de HTML.
 
+## Descrição dos Exercícios
+
+### Exercício 1 (Listas)
+
+- Criar uma lista com os dados fornecidos.
+
 ## Meta
 
 Davis Lamenha Sampaio - [Linkedin](https://www.linkedin.com/in/davislamenha/) - davislamenha@gmail.com
