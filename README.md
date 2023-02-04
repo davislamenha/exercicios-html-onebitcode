@@ -10,6 +10,11 @@
 
 - Criar uma lista com os dados fornecidos.
 
+### Exercício 2 (Guia das Galáxias)
+
+- Criar uma guia de Galáxias com 3 páginas.
+- Criar links para navegar entre as páginas.
+
 ## Meta
 
 Davis Lamenha Sampaio - [Linkedin](https://www.linkedin.com/in/davislamenha/) - davislamenha@gmail.com
