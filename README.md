@@ -19,6 +19,10 @@
 
 - Criar uma tabela com os dados fornecidos.
 
+### Exercício 4 (Formulário)
+
+- Criar um formulário semelhante ao que foi mostrado.
+
 ## Meta
 
 Davis Lamenha Sampaio - [Linkedin](https://www.linkedin.com/in/davislamenha/) - davislamenha@gmail.com
