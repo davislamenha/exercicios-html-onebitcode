@@ -23,6 +23,10 @@
 
 - Criar um formulário semelhante ao que foi mostrado.
 
+### Exercício 5 (Site Completo)
+
+- Criar um site institucional em HTML.
+
 ## Meta
 
 Davis Lamenha Sampaio - [Linkedin](https://www.linkedin.com/in/davislamenha/) - davislamenha@gmail.com
